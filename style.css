@@ -1,0 +1,31 @@
+body
+{
+	background-color: #292930; 
+	font-family: Lato;
+	font-size: 28px;
+	color: #db4a39 ;
+}
+
+h1
+{
+	font-size: 68px;
+	color: #3EB650 !important;
+}
+
+/* Nieodwiedzony link */
+a:link
+{
+	color: #3778C2;
+}
+
+/* Odwiedzony link */
+a:visited
+{
+	color: #3778C2;
+}
+
+/* Link po najechaniu kursorem */
+a:hover
+{
+	color: #e0c68b;
+}
